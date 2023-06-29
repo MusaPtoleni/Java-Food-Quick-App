@@ -1,0 +1,42 @@
+Task 1
+*Create 2 class and a main class
+- Customer
+- Restaurant
+- Main
+
+*Customer class 
+- Assign all the attributes for the customer
+  Attributes: Full Name, Phone Number, Oder Number,Email,Location,Address.
+- Create getters and setters for all attributes to creat a customer attributes
+- create a Scanner variable and ask the user for their information with attributes
+
+*Restaurant Class
+-Assign all the attributes for the Restaurant
+ Attributes: Name, Location,Cell Number,Number of Meal, Meal and Price,Total,Instruction
+-Create getters and setters for all attributes to creat a restaurant attributes
+-Create a Scanner variable and get some infomation from the user
+-Create a method to get the number of food the user wants
+-Create a method to get the meals and price of the meals from the user
+-Create a mothod to compare the restuant loction and driver's loction
+
+*Main Class
+- Create new customer object
+- Create new restaurant object
+- create a new text file
+- Write the information captured from both customer and restaurant to the new text file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

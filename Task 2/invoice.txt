@@ -1,0 +1,15 @@
+Order Number: 50
+Customer: Cole Smith
+Email: cole@smiht.com
+Phone Number: 555261354
+Address: 54 Ham Road
+Location: Durban
+
+You have ordered the follow from  KFC in Durban
+ :2x drink 20.0
+Special Instruction: no
+Total:  43.0
+Eugene Santana is the nearest to the restaurant and so he will be delivering your order to you at: 
+
+null
+If you need to conact the restaurant, their number is is: 568232446n
